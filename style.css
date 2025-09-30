@@ -1,0 +1,27 @@
+body{
+    margin: 10px;
+    padding: 10px;
+}
+.container1{
+    display: flex;
+    gap: 10px;
+}
+.container1 div{
+    border: solid black 2px;
+    border-radius: 5px;
+}
+.container1 h3{
+    text-align: center;
+}
+.container2{
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+}
+.container2 div{
+    border: solid black 2px;
+    border-radius: 5px;
+}
+.container2 h3{
+    text-align: center;
+}
